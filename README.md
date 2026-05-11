@@ -1,3 +1,6 @@
+# RETIRED
+These will only work with the old MET station data.
+
 SEV Hourly Meteorological Data Processing  
 
 This GitHub repository provides the programs that are used to process raw hourly meteorological data from the server, produce reports that are emailed to researchers and field crew, scripts for emailing the reports, and a bash script that automates the entire process.  
